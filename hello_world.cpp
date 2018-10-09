@@ -5,5 +5,5 @@ int main()
 {
 	cout<<"hello GITHUB";
 	cout<<"karya";
-return 0;
+return 1;
 }
